@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	position: relative;
+}
+ul{
+	list-style-type: none;
+}
+
+.blue{
+	z-index: 3;
+	display: block;
+	
+}
+.red{
+	
+	z-index: 2;
+	display: block;
+	width: 150px;
+	height: 100;
+	background: red;
+}
+.blue:hover{
+	z-index: 1;
+}
