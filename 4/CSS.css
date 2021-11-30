@@ -1,0 +1,23 @@
+
+
+
+.one{
+	float: left;
+	width: 30%;
+	
+}
+.group{
+background-color: red;
+}
+
+.two{
+	float: right;
+	width: 30%;	
+	
+	
+}
+.three{
+	margin-left: 30%;
+	background-color: white;
+	width: 39.5%;
+}
