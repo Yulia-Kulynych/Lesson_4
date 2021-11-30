@@ -1,0 +1,15 @@
+
+
+.one, .two, .three{
+	display: list-item;
+
+}
+ .block2{
+ display: block;
+}
+.block22{
+	display: inline;
+}
+.block32{
+	display: inline-block;
+}
