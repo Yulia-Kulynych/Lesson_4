@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin:0px;
+}
+.one, .two, .three, .four{
+	width: 100px;
+	height: 100px;
+	border:solid 1px black;
+	position: absolute;
+}
+.one{
+	background-color: red;
+	
+	top: 100px;
+	left: 100px;
+}
+.two{
+	background-color: green;
+}
+.three{
+	background-color: blue;
+	left: 100px;
+}
+.four{
+	background-color: black;
+	top:100px;
+}
+body{
+	margin:0px;
+}
