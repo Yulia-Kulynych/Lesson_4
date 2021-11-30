@@ -1,0 +1,33 @@
+
+
+.one{
+	float: left;
+	width: 30%;
+	
+}
+
+.biggroup{
+	margin-left: 30%;
+	
+}
+.bgContent1{
+	float: right;
+	width: 27%;	
+}
+.bgContent2{
+	margin-right: 27%;
+	
+}
+.lgContent1 {
+	float: right;
+	width: 25%;	
+}
+.lgContent2{
+	float: left;
+	width: 25%;	
+}
+
+.lgContent3{
+	margin-left:25%; 
+	margin-right:25%;
+}
