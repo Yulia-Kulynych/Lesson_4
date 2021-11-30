@@ -1,0 +1,15 @@
+
+*{box-sizing: border-box;}
+
+.aside{
+	
+	border: dashed 1px black;
+	padding: 10px;
+	
+	
+
+}
+ .main{
+	border: solid 1px black;
+	padding: 10px;
+}
