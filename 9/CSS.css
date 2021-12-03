@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	position: relative;
+}
+ul{
+	list-style-type: none;
+}
+
+.red{
+	display: none;
+	background-color: red;
+	width: 150px;
+	height: 100;
+}
+.blue:hover .red{
+	display: block;
+}
